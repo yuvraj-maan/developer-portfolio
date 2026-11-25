@@ -1,6 +1,6 @@
 # K.R. Mangalam University | B.Tech CSE (AI & ML) | Learning Roadmap
 
-**Student:** Yuvraj Maan | **Batch:** 2026–2030 | **GitHub:** yuvraj-maan **Chosen Specialisation (Semester 5 onwards):** Track B — Data Science & AI / ML
+**Student:** Yuvraj Maan | **Batch:** 2026–2030 | **GitHub:**[yuvraj-maan](https://github.com/yuvraj-maan) **Chosen Specialisation (Semester 5 onwards):** Track B — Data Science & AI / ML
 
 ## Step 1: Starting Point (November 2026)
 
