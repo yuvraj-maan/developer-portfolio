@@ -1,4 +1,4 @@
-k# K.R. Mangalam University | B.Tech CSE (AI & ML) | Learning Roadmap
+K.R. Mangalam University | B.Tech CSE (AI & ML) | Learning Roadmap
 
 **Student:** Yuvraj Maan | **Batch:** 2026–2030 | **GitHub:** yuvraj-maan **Chosen Specialisation (Semester 5 onwards):** Track B — Data Science & AI / ML
 
@@ -113,12 +113,3 @@ I plan to approach **Mr. Hemant Billa** (Assistant Professor) for guidance on AI
 *Roadmap to be reviewed and updated at the start of every semester.*
 ```[cite: 11, 12, 13, 14, 15, 16]
 
-### Git Commands to Commit & Push
-
-```bash
-cd ~/developer-portfolio
-nano LEARNING_ROADMAP.md
-git add LEARNING_ROADMAP.md
-git commit -m "docs: add personalised 6-semester learning roadmap"
-git push
-```[cite: 4]
