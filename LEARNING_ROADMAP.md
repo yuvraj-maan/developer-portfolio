@@ -1,19 +1,19 @@
-# K.R. Mangalam University | B.Tech CSE (AI & ML) | Learning Roadmap
+k# K.R. Mangalam University | B.Tech CSE (AI & ML) | Learning Roadmap
 
-**Student:** Yuvraj Maan | **Batch:** 2026–2030 | **GitHub:**[yuvraj-maan](https://github.com/yuvraj-maan) **Chosen Specialisation (Semester 5 onwards):** Track B — Data Science & AI / ML
+**Student:** Yuvraj Maan | **Batch:** 2026–2030 | **GitHub:** yuvraj-maan **Chosen Specialisation (Semester 5 onwards):** Track B — Data Science & AI / ML
 
 ## Step 1: Starting Point (November 2026)
 
 Scale: 1 = No knowledge, 2 = Beginner, 3 = Intermediate, 4 = Advanced
 
-| Area | Level | Evidence |
-| :--- | :---: | :--- |
-| Python | 2 | Cafe Management System, LibTrack, Simple Calculator |
-| Linux / Bash | 2 | Lab work in CSE103 |
-| Git / GitHub | 2 | 4 project repos, profile README |
-| DSA | 1 | Not started formally |
-| Databases | 1 | Only JSON file storage so far |
-| Web Dev | 2 | Portfolio website (HTML, CSS), JavaScript basics |
+| Area | Level |
+| :--- | :---: |
+| Python | 2 |
+| Linux / Bash | 2 |
+| Git / GitHub | 2 |
+| DSA | 1 |
+| Databases | 1 |
+| Web Dev | 2 |
 
 **Why Track B:** My degree is CSE (AI & ML), and my Python projects are a natural base for NumPy, Pandas and Scikit-learn.
 
@@ -112,3 +112,13 @@ I plan to approach **Mr. Hemant Billa** (Assistant Professor) for guidance on AI
 
 *Roadmap to be reviewed and updated at the start of every semester.*
 ```[cite: 11, 12, 13, 14, 15, 16]
+
+### Git Commands to Commit & Push
+
+```bash
+cd ~/developer-portfolio
+nano LEARNING_ROADMAP.md
+git add LEARNING_ROADMAP.md
+git commit -m "docs: add personalised 6-semester learning roadmap"
+git push
+```[cite: 4]
